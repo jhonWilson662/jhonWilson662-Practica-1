@@ -107,7 +107,7 @@ const vector<int>& q){
  report("uniforme_ordenado", uni, q_uni);
  report("sesgado_ordenado", ses, q_ses);
  report("desordenado", des, q_des);
- cout<<"-----------------------------\n";
+ cout<<"----------------------------\n";
  }
  return 0;
 }
